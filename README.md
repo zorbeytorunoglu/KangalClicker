@@ -1,7 +1,5 @@
 # KangalClicker
-wasmJS project made with cmp, just for fun, about 45 minutes of coding, don't take it seriously, but it was really fun
-
-I'm from Sivas.
+wasmJS project made with cmp, just for fun, about 45 minutes of coding, don't take it seriously, but it was really fun because i'm from Sivas.
 
 [Video](https://youtu.be/vgQzk7EevvA)
 
